@@ -24,5 +24,7 @@
             <url>Include/config</url>
          </systemFolderConfiguration>
       </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
